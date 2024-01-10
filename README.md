@@ -19,6 +19,11 @@ The following **optional** functionality is implemented:
 - [ ] Feel free to play around with other elements, such as image views,     textfields, etc.
 - [ ] Implement a way to change the color of the text as well
 
+## Video Walkthrough
+
+https://i.imgur.com/XDH7M6e.gif
+
+
 ## App Brainstorming (Step 4)
 
 ### MacroFactor
